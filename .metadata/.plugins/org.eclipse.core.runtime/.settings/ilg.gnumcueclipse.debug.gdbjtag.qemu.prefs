@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+gdb.client.commands=set mem inaccessible-by-default off
+gdb.client.executable=C\:\\ST\\STM32CubeIDE_1.3.0\\STM32CubeIDE\\plugins\\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610\\tools\\bin\\arm-none-eabi-gdb.exe
+gdb.client.other=
+gdb.qemu.boardName=STM32-P107
+gdb.qemu.deviceName=STM32F107VC
+gdb.qemu.doDebugInRam=false
+gdb.qemu.doInitialReset=false
+gdb.qemu.doPreRunReset=true
+gdb.qemu.enableSemihosting=true
+gdb.qemu.init.other=
+gdb.qemu.isVerbose=false
+gdb.qemu.preRun.other=
+gdb.server.doStart=true
+gdb.server.executable=${qemu_path}/${qemu_executable}
+gdb.server.other=-d unimp,guest_errors
